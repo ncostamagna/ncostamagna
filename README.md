@@ -22,6 +22,10 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="GraphQL" />
+      <br>Anaconda
+    </td> 
   </tr>
   <tr>
     <td align="center" width="90">
@@ -43,6 +47,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=sequelize" width="45" height="45" alt="nestjs" />
       <br>Sequelize
+    </td> 
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jest" width="45" height="45" alt="GraphQL" />
+      <br>Jest
     </td>    
   </tr>
   <tr>
@@ -66,6 +74,10 @@
       <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="Next.js" />
       <br>G. Actions
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="GraphQL" />
+      <br>Linux
+    </td>  
     </tr>
     <tr>
     <td align="center" width="90">
@@ -87,6 +99,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dynamodb" width="45" height="45" alt="Next.js" />
       <br>Dynamo DB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="GraphQL" />
+      <br>Vercel
     </td>
   </tr>
   <tr>
@@ -110,28 +126,10 @@
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next" />
       <br>Next.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
       <br>GraphQL
     </td> 
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="GraphQL" />
-      <br>Vercel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="GraphQL" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jest" width="45" height="45" alt="GraphQL" />
-      <br>Jest
-    </td>  
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="GraphQL" />
-      <br>Anaconda
-    </td>  
   </tr>
 </table>
 </p>
