@@ -1,7 +1,9 @@
+<img src="https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/0-profile-details.svg" width="940em" align="center"/>
 
-| :-------: | :--------: |
-| <img src="https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/0-profile-details.svg" /> |
-| :--------------: | :-------------: |
-| <img src="https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/1-repos-per-language.svg" width="450em"/> | <img src="https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/2-most-commit-language.svg" width="450em"/> |
-| ![](https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/3-stats.svg) | ![](https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/4-productive-time.svg) |
-| :--------------: | :-------------: |
+|||
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em" align="center" src="https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/1-repos-per-language.svg" alt="exbucks Streak" />                                           |  <img width="450em" align="center" alt="exbucks's Github stats"  src="https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/2-most-commit-language.svg" />   || :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em" align="center" src="https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/3-stats.svg" alt="exbucks Streak" />                                           |  <img width="450em" align="center" alt="exbucks's Github stats"  src="https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/4-productive-time.svg" />   || :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+
+
