@@ -1,3 +1,14 @@
+<h3>Hi, I'm Nahuel</h1>
+<p>I have been actively involved in the IT industry since 2012. My main skill is <b>BackEnd</b> development, and within this area, my strengths are <b>Go</b> and <b>NodeJS</b>.</p>
+
+In addition to my BackEnd skills, I also have knowledge and experience working as a <b>Front-End Developer</b> and <b>DevOps engineer</b>.
+
+In my DevOps experience, I've always used <b>AWS</b>, and regarding Front-End, <b>React</b> and <b>NextJS</b>
+
+I really enjoy writing posts and sharing my knowledge with the community. In fact, I have my
+own blog called <a href="https://www.beeblogit.com/">Bee Blogit</a>
+
+
 <h1 align="center">My Skills</h1>
 <p align="center">
 <table align="center">
@@ -156,6 +167,7 @@
 <hr>
 <br>
 
+<h1 align="center">Github Stats</h1>
 <img src="https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/0-profile-details.svg" width="940em" align="center"/>
 
 |||
