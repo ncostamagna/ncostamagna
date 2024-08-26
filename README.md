@@ -29,6 +29,10 @@
     <td align="center" width="90">
       <img src="https://static-00.iconduck.com/assets.00/aws-lambda-color-icon-256x256-mcivmlu3.png" width="45" height="45" alt="Serverless" />
       <br>Serverless
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="rust" />
+      <br>Rust
     </td> 
   </tr>
   <tr>
@@ -59,7 +63,11 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="Anaconda" />
       <br>Anaconda
-    </td>       
+    </td>     
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" />
+      <br>Flask
+    </td> 
   </tr>
   <tr>
     <td align="center" width="90">
@@ -89,7 +97,11 @@
     <td align="center" width="90">
       <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" width="45" height="45" alt="Helm" />
       <br>Helm
-    </td>    
+    </td>  
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="kafka" />
+      <br>Kafka
+    </td> 
     </tr>
     <tr>
     <td align="center" width="90">
@@ -119,6 +131,10 @@
     <td align="center" width="90">
       <img src="https://styles.redditmedia.com/t5_4wmnyu/styles/communityIcon_2pv56jvnhlh71.png" width="45" height="45" alt="Argo" />
       <br>Argo
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sentry" width="45" height="45" alt="Sentry" />
+      <br>Sentry
     </td>
   </tr>
   <tr>
@@ -150,6 +166,10 @@
       <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
       <br>GraphQL
     </td> 
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="tensorflow" />
+      <br>Tensorflow
+    </td>
   </tr>
 </table>
 </p>
