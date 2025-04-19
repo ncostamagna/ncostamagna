@@ -171,6 +171,40 @@
       <br>Tensorflow
     </td>
   </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="45" height="45" alt="Prometheus" />
+      <br>Prometheus
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="45" height="45" alt="cloudflare" />
+      <br>Cloudflare
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=grafana" width="45" height="45" alt="Grafana" />
+      <br>Grafana
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.brandfetch.io/ollama.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="45" height="45" alt="Ollama" />
+      <br>Ollama
+    </td>
+    <td align="center" width="90">
+      <img src="https://localstack.gallerycdn.vsassets.io/extensions/localstack/localstack/0.1.1/1689254756002/Microsoft.VisualStudio.Services.Icons.Default" width="45" height="45" alt="Localstack" />
+      <br>Localstack
+    </td> 
+    <td align="center" width="90">
+      <img src="https://dashboard.snapcraft.io/site_media/appmedia/2016/12/NATS_favicon_256x256_1.png" width="45" height="45" alt="Nats" />
+      <br>Nats
+    </td> 
+        <td align="center" width="90">
+      <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/solana-8544144-7002700.png?f=webp&w=256" width="45" height="45" alt="Solana" />
+      <br>Solana
+    </td>
+    <td align="center" width="90">
+      <img src="https://camo.githubusercontent.com/590ccfb4e70a27673047ee879ed409981c05b2da403e60b4aaa7961ccdb46001/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" width="45" height="45" alt="Anchor" />
+      <br>Anchor
+    </td>
+  </tr>
 </table>
 </p>
 <hr>
