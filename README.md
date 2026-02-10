@@ -1,5 +1,7 @@
+<!--
 <h1 align="center">My Skills</h1>
 <p align="center">
+
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -209,7 +211,7 @@
 </p>
 <hr>
 <br>
-
+-->
 <h1 align="center">Github Stats</h1>
 <img src="https://raw.githubusercontent.com/ncostamagna/ncostamagna/master/profile-summary-card-output/blueberry/0-profile-details.svg" width="940em" align="center"/>
 
